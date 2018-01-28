@@ -154,11 +154,7 @@ h1 {
   .col-md-12 {
     width: 99.99%;
   } 
-<<<<<<< HEAD
 }
-=======
-  }
->>>>>>> 50439dafba4fecfb28e8c41f879fa4a23187d6ff
 
  /********** MOBILE VIEW = DEFAULT **********/
  @media (max-width: 767px) {
@@ -201,9 +197,5 @@ h1 {
   .col-sm-12 {
     width: 99.99%;
   }
-<<<<<<< HEAD
 }
 
-=======
-  }
->>>>>>> 50439dafba4fecfb28e8c41f879fa4a23187d6ff
