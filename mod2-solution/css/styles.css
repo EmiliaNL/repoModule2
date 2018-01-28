@@ -5,10 +5,7 @@
 }
 body {
   background-color: #FFFFCC;
-  background-image: url("../../tile_line.png");
-  background-repeat: repeat-x;
-  background-position: 0px -105px; 
-}
+ }
 h1 {
   margin-bottom: 50px;
   margin-top: 15px;
