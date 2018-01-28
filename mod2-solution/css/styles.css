@@ -5,7 +5,7 @@
 }
 body {
   background-color: #FFFFCC;
-  background-image: url(../tile_line.png);
+  background-image: url("../tile_line.png");
   background-repeat: repeat-x;
   background-position: 0px -105px; 
 }
